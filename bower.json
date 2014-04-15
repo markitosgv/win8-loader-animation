@@ -1,0 +1,9 @@
+{
+    "name": "win8-loader-animation",
+    "version": "1.0.0",
+    "main": "preloader.css",
+    "ignore": [
+        "**/.*",
+        "index.html"
+    ]
+}
